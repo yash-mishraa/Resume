@@ -3,8 +3,8 @@
 Permanent, high-availability redirect link to Yash Mishra's Resume hosted on Google Drive.
 
 🔗 **Live Link:** [https://yash-mishraa.github.io/Resume/](https://yash-mishraa.github.io/Resume/)  
-📁 **Google Drive Link:** [https://drive.google.com/file/d/1wdoMK2ACA6Aiwr0nhfv3PcuoDYUNHU02/view?usp=sharing](https://drive.google.com/file/d/1wdoMK2ACA6Aiwr0nhfv3PcuoDYUNHU02/view?usp=sharing)  
-📥 **Direct Download:** [https://drive.google.com/uc?export=download&id=1wdoMK2ACA6Aiwr0nhfv3PcuoDYUNHU02](https://drive.google.com/uc?export=download&id=1wdoMK2ACA6Aiwr0nhfv3PcuoDYUNHU02)
+📁 **Google Drive Link:** [https://drive.google.com/file/d/1Qg4uPH7mkQQx4f5YJM4C-H0EEacJfC8M/view?usp=sharing](https://drive.google.com/file/d/1Qg4uPH7mkQQx4f5YJM4C-H0EEacJfC8M/view?usp=sharing)  
+📥 **Direct Download:** [https://drive.google.com/uc?export=download&id=1Qg4uPH7mkQQx4f5YJM4C-H0EEacJfC8M](https://drive.google.com/uc?export=download&id=1Qg4uPH7mkQQx4f5YJM4C-H0EEacJfC8M)
 
 ---
 
